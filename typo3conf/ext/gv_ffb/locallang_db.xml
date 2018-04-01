@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'gv_ffb'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_gvffb_taetigkeiten">Tätigkeiten Liste</label>
+			<label index="tx_gvffb_taetigkeiten.taetigkeit">Tätigkeit</label>
+			<label index="tx_gvffb_geschaeftsfelder">Geschäftsfelder Liste</label>
+			<label index="tx_gvffb_geschaeftsfelder.geschaeftsfeld">Geschäftsfeld</label>
+			<label index="tx_gvffb_zertifikationen">Zertifikationen Liste</label>
+			<label index="tx_gvffb_zertifikationen.zertifikation">zertifikation</label>
+			<label index="fe_users.tx_gvffb_taetigkeiten">Tätigkeit</label>
+			<label index="fe_users.tx_gvffb_geschaeftsfelder">Geschäftsfelder</label>
+			<label index="fe_users.tx_gvffb_zertifikationen">Zertifikationen</label>
+			<label index="fe_users.tx_gvffb_zweigstelle">Zweigstelle von</label>
+			<label index="fe_users.tx_gvffb_mobil">Handy</label>
+			<label index="fe_users.tx_gvffb_freitext">Freitext</label>
+			<label index="tt_content.list_type_pi1">Mitglieder Suchbox</label>
+			<label index="tt_content.list_type_pi2">Mitglieder Suchergebnis</label>
+			<label index="tt_content.list_type_pi3">Mitglieder Intern</label>
+			<label index="tt_content.list_type_pi4">Mitgliederliste</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tx_gvffb_taetigkeiten">Tätigkeiten Liste</label>
+			<label index="tx_gvffb_taetigkeiten.taetigkeit">Tätigkeit</label>
+			<label index="tx_gvffb_geschaeftsfelder">Geschäftsfelder Liste</label>
+			<label index="tx_gvffb_geschaeftsfelder.geschaeftsfeld">Geschäftsfeld</label>
+			<label index="tx_gvffb_zertifikationen">Zertifikationen Liste</label>
+			<label index="tx_gvffb_zertifikationen.zertifikation">zertifikation</label>
+			<label index="fe_users.tx_gvffb_taetigkeiten">Tätigkeit</label>
+			<label index="fe_users.tx_gvffb_geschaeftsfelder">Geschäftsfelder</label>
+			<label index="fe_users.tx_gvffb_zertifikationen">Zertifikationen</label>
+			<label index="fe_users.tx_gvffb_zweigstelle">Zweigstelle von</label>
+			<label index="fe_users.tx_gvffb_mobil">Handy</label>
+			<label index="fe_users.tx_gvffb_freitext">Freitext</label>
+			<label index="tt_content.list_type_pi1">Mitglieder Suchbox</label>
+			<label index="tt_content.list_type_pi2">Mitglieder Suchergebnis</label>
+			<label index="tt_content.list_type_pi3">Mitglieder Intern</label>
+			<label index="tt_content.list_type_pi4">Mitgliederliste</label>
+		</languageKey>
+	</data>
+</T3locallang>

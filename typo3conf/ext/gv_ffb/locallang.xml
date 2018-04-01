@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for extension 'gv_ffb'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pi1_title">Mitglieder Suchbox</label>
+			<label index="pi1_plus_wiz_description">Suchbox für Mitgliedersuche</label>
+			<label index="pi2_title">Mitglieder Suchergebnis</label>
+			<label index="pi2_plus_wiz_description">Suchergebnis der Mitgliedersuche</label>
+			<label index="pi3_title">Mitglieder Intern</label>
+			<label index="pi3_plus_wiz_description">Wird angezeigt, wenn man eingeloggt ist, um seine Daten zu ändern und neue Zweigstellen anzulegen</label>
+			<label index="pi4_title">Mitgliederliste</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="pi1_title">Mitglieder Suchbox</label>
+			<label index="pi1_plus_wiz_description">Suchbox für Mitgliedersuche</label>
+			<label index="pi2_title">Mitglieder Suchergebnis</label>
+			<label index="pi2_plus_wiz_description">Suchergebnis der Mitgliedersuche</label>
+			<label index="pi3_title">Mitglieder Intern</label>
+			<label index="pi3_plus_wiz_description">Wird angezeigt, wenn man eingeloggt ist, um seine Daten zu ändern und neue Zweigstellen anzulegen</label>
+			<label index="pi4_title">Mitgliederliste</label>
+		</languageKey>
+	</data>
+</T3locallang>
